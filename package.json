@@ -20,6 +20,7 @@
   "homepage": "https://github.com/abiyogaaron/crypto-bot#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "telebot": "^1.4.1"
+    "telebot": "^1.4.1",
+    "trading-indicator": "^1.0.4-beta"
   }
 }

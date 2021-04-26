@@ -1,0 +1,10 @@
+# .gitignore
+/node_modules
+npm-debug.log
+
+# production
+/build
+/lib
+
+# misc
+.DS_Store
